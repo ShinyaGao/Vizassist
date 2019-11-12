@@ -1,5 +1,5 @@
 # Vizassist
-Project Goal: assist blind people accomplishing daily reading tasks independently
+Project Goal: assist people with poor vision accomplishing daily reading tasks independently
 
 Project High Level Design: images sent from Android devices sent to Google OCR engine for recognition and results read back to users
 
